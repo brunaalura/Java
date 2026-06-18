@@ -3,7 +3,6 @@ public class Main {
         String nome = "Ana";
         int idade = 16;
 
-
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
     }
